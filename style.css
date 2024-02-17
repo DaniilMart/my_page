@@ -1,0 +1,28 @@
+/* css */
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: aqua;
+}
+
+ul {
+    color: orange;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
